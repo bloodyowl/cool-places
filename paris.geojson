@@ -1,0 +1,167 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties" : {
+        "name" : "la fine mousse",
+        "description" : "**LE** bar à bière de Paris",
+        "type" : "bar",
+        "tips" : [
+          "les planchettes de fromage sont excellentes (mais chères)"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates": [
+          2.381702,
+          48.864879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "name" : "UFO",
+        "description" : "Petit bar sympa pour finir une soirée",
+        "type" : "bar"
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates": [
+          2.373944,
+          48.866848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "name" : "Dernier bar avant la fin du monde",
+        "description" : "Bar plutôt cool, 3 étages aux ambiances différentes",
+        "type" : "bar"
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates": [
+          2.346374,
+          48.857948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "name" : "Le Rendez Vous des Amis",
+        "description" : "Ambiance détendue à deux pas du sacré-cœur",
+        "type" : "bar"
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates": [
+          2.340568,
+          48.885699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "name" : "peoples drug store",
+        "description" : "petite pépite : boutique de bière artisanales ouverte la nuit",
+        "type" : "bar",
+        "tips" : [
+          "le soir, prenez votre bière à emporter pour débuter votre soirée"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates": [
+          2.339713,
+          48.882883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "name" : "le sans-souci",
+        "description" : "bar très sympathique et toujours rempli le soir",
+        "type" : "bar",
+        "tips" : [
+          "pensez à y manger un cheeseburger au cantal un midi"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates": [
+          2.336099,
+          48.881329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "name" : "le lush",
+        "description" : "bar irlandais d'habitués, ambiance familiale",
+        "type" : "bar"
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates": [
+          2.325231,
+          48.885113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "name" : "les caves populaires",
+        "description" : "petit bar à vin très abordable",
+        "type" : "bar"
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates": [
+          2.324696,
+          48.884741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "name" : "kawaii café",
+        "description" : "micro bar à l'ambiance nippone",
+        "type" : "bar",
+        "tips" : [
+          "demandez au tenancier pour jouer une partie de smash bros ou de street fighter"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates": [
+          2.372216,
+          48.866158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "name" : "clichy's tavern",
+        "description" : "une girafe de chouffe? une girafe de chouffe!",
+        "type" : "bar"
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates": [
+          2.329136,
+          48.884607
+        ]
+      }
+    }
+  ]
+}
